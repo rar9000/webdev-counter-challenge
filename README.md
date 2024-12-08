@@ -27,7 +27,7 @@ To view the project locally, you can either open the project files in your code 
 
 ### Tasks
 
-- [ ] Read `index.html`, `style.css`, and `app.js` carefully.
+- [X] Read `index.html`, `style.css`, and `app.js` carefully.
 - [ ] Update **only** the media query in `style.css`. The mockups are in the mockups folder.
 - [ ] Read `app.js` again and reference `quiz.txt`
 - [ ] Write the missing code in `app.js` to implement the functionality of the buttons.
