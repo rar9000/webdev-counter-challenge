@@ -1,4 +1,4 @@
-# Counter Challenge
+# Counter Challenge - completed
 
 This challenge's primary focus is reading code that you have not written yourself. There is very little code to write, but it will require some thought to solve.
 
