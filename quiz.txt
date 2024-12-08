@@ -1,5 +1,20 @@
+
 1. Why do you use "using strict" at the top of your JS files?
+
+A - Strict mode is meant to throw errors at unclean syntax such as undeclared variables. 
+
+
 2. What does line 3 mean?
+
+A - Line 3 declares the variable "count" which holds the current value of the counter. This value can change as it receives input from the end-user.   
+
+
 3. What is happening on lines 5-8 and why?
+
+A - These lines declare variables whose values are a reference to buttons and elements in the html, like a pathway of sorts. The variables can then be assigned functionality. Once the reference is stored and functionality defined the end-user cannot affect those values. 
+
+
 4. If you implemented the functionality of the buttons,
    why do you think I wrote the JS code the way I did?
+
+A - It's written this way to keep javascript variables and defined functionality on a single javascript page to better organize your code instead of having to rummage around in the html to fix or change how it functions. 
